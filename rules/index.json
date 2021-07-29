@@ -1,0 +1,13 @@
+{
+    "default": {
+
+    },
+    "validateToken":{
+        "mode":{
+            "type":"string"
+        },
+        "token":{
+            "type":"string"
+        }
+    }
+}
